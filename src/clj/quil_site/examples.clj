@@ -1,4 +1,4 @@
-(ns quil-site.examples
+(ns fxquil-site.examples
   (:require [clojure.java.io :as io]
             [clojure.string :as cstr]))
 
