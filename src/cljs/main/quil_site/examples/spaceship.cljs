@@ -126,4 +126,4 @@
   :middleware [m/fun-mode])
 ) ;DELETE
 
-(quil-site.main/register-example! "spaceship" "Erik Svedäng" run-sketch) ;DELETE
+(fxquil-site.main/register-example! "spaceship" "Erik Svedäng" run-sketch) ;DELETE
