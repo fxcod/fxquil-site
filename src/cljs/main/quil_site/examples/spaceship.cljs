@@ -1,4 +1,4 @@
-(ns quil-site.examples.spaceship
+(ns fxquil-site.examples.spaceship
   (:require [quil.core :as q :include-macros true]
             quil-site.main ;DELETE
             [quil.middleware :as m]))
