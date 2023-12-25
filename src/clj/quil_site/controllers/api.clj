@@ -1,4 +1,4 @@
-(ns quil-site.controllers.api
+(ns fxquil-site.controllers.api
   (:require [compojure.core :refer :all :exclude [routes]]
             [compojure.route :refer [not-found]]
             [ring.util.response :as resp]
