@@ -249,4 +249,4 @@
    :middleware [m/fun-mode])
   ) ;DELETE
 
-(quil-site.main/register-example! "cluster" "Marco Fink" run-sketch :interactive? true :white-play-button? true) ;DELETE
+(fxquil-site.main/register-example! "cluster" "Marco Fink" run-sketch :interactive? true :white-play-button? true) ;DELETE
