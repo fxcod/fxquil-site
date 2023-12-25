@@ -1,4 +1,4 @@
-(ns quil-site.views.page
+(ns fxquil-site.views.page
   (:require [hiccup.page :as p]
             [hiccup.element :as e]))
 
