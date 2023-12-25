@@ -1,6 +1,6 @@
 (ns fxquil-site.views.api
-  (:require [quil-site.views.page :refer [page]]
-            [quil-site.snippets :as snippets]
+  (:require [fxquil-site.views.page :refer [page]]
+            [fxquil-site.snippets :as snippets]
             [hiccup.page :as p]
             [hiccup.element :as e]
             [hiccup.util :as u]
