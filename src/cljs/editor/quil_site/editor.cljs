@@ -1,6 +1,6 @@
-(ns quil-site.editor
-  (:require [quil-site.compiler :as c]
-            [quil-site.parser :as p]
+(ns fxquil-site.editor
+  (:require [fxquil-site.compiler :as c]
+            [fxquil-site.parser :as p]
             [jayq.core :as j]
             [clojure.string :as cstr]
             [cljs.pprint :as pprint]
