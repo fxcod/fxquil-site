@@ -1,5 +1,5 @@
 (ns fxquil-site.views.about
-  (:require [quil-site.views.page :refer [page]]
+  (:require [fxquil-site.views.page :refer [page]]
             [hiccup.element :refer [link-to]]))
 
 (defn about-page []
