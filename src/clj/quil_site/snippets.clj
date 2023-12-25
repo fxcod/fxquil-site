@@ -1,4 +1,4 @@
-(ns quil-site.snippets
+(ns fxquil-site.snippets
   "Utility namespace to get snippets from snippets.clj.
   Snippets are small pieces of code demonstrating how to
   use particular function."
