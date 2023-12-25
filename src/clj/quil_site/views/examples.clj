@@ -1,4 +1,4 @@
-(ns quil-site.views.examples
+(ns fxquil-site.views.examples
   (:require [quil-site.views.page :refer [page]]
             [hiccup.element :refer [link-to]]))
 
