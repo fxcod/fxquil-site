@@ -1,4 +1,4 @@
-(ns quil-site.controllers.sketches
+(ns fxquil-site.controllers.sketches
   (:require [compojure.core :refer :all :exclude [routes]]
             [compojure.route :refer [not-found]]
             [clojure.java.io :as io]
