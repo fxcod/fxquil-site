@@ -5,7 +5,7 @@
 
 (def field-size 700)
 
-(def images [:body :sky :star :anchor :engine :cupola :flag0 :flag1 :fire0 :fire1 :fire2 :fire3 :antenna])
+(def images [:body :sky :star :anchor :engine :baca :flag0 :flag1 :fire0 :fire1 :fire2 :fire3 :antenna])
 
 (defn pulse [low high rate]
   (let [diff (- high low)
@@ -92,7 +92,7 @@
 
       ; Draw cupola
       (q/with-translation [-160 (pulse 67 74 0.20)]
-        (draw-image state :cupola [160 -235]))
+        (draw-image state :baca [160 -235]))
 
       (draw-image state :body [0 0])
 
