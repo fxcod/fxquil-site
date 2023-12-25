@@ -1,4 +1,4 @@
-(ns quil-site.compiler
+(ns fxquil-site.compiler
   (:require [cljs.js :as cjs]
             [cljs.analyzer :as ana :include-macros true]
             [cljs.reader :as r]
