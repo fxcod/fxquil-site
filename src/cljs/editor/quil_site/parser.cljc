@@ -1,4 +1,4 @@
-(ns quil-site.parser
+(ns fxquil-site.parser
   (:require [#?(:clj clojure.tools.reader.reader-types
                 :cljs cljs.tools.reader.reader-types)
              :as rt]
