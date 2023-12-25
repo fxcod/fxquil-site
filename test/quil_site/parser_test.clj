@@ -1,6 +1,6 @@
-(ns quil-site.parser-test
+(ns fxquil-site.parser-test
   (:require [clojure.test :as t]
-            [quil-site.parser :as p]))
+            [fxquil-site.parser :as p]))
 
 (t/deftest get-form-ends-at-point
   (t/are [source point result] (= (p/get-form-ends-at-point source point)
