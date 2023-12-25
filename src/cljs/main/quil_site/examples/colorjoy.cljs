@@ -1,6 +1,6 @@
-(ns quil-site.examples.colorjoy
+(ns fxquil-site.examples.colorjoy
   (:require [quil.core :as q :include-macros true]
-            quil-site.main ;DELETE
+            fxquil-site.main ;DELETE
             ))
 
 ;;;
@@ -37,5 +37,5 @@
   :draw draw)
 ) ;DELETE
 
-(quil-site.main/register-example! "colorjoy" "Abe Pazos" run-sketch :white-play-button? true) ;DELETE
+(fxquil-site.main/register-example! "colorjoy" "Abe Pazos" run-sketch :white-play-button? true) ;DELETE
 
