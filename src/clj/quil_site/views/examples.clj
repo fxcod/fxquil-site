@@ -1,5 +1,5 @@
 (ns fxquil-site.views.examples
-  (:require [quil-site.views.page :refer [page]]
+  (:require [fxquil-site.views.page :refer [page]]
             [hiccup.element :refer [link-to]]))
 
 (defn examples-page []
