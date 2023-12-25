@@ -1,4 +1,4 @@
-(ns quil-site.core
+(ns fxquil-site.core
   (:require [compojure.core :refer [defroutes GET]]
             [compojure.handler :refer [site]]
             [compojure.route :refer [files]]
