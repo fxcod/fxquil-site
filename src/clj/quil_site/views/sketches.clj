@@ -1,5 +1,5 @@
 (ns fxquil-site.views.sketches
-  (:require [quil-site.views.page :refer [page]]
+  (:require [fxquil-site.views.page :refer [page]]
             [hiccup.page :as p]))
 
 (defn sketch-page [id local?]
