@@ -1,4 +1,4 @@
-(ns quil-site.preload
+(ns fxquil-site.preload
   (:require quil.core
             quil.middleware
             clojure.string
