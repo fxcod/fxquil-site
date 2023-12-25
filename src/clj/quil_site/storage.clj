@@ -1,4 +1,4 @@
-(ns quil-site.storage
+(ns fxquil-site.storage
   (:require [clj-http.client :as http]
             [cheshire.core :refer [generate-string]]
             [clojure.tools.reader.edn :as edn]
