@@ -1,4 +1,4 @@
-(ns quil-site.views.api
+(ns fxquil-site.views.api
   (:require [quil-site.views.page :refer [page]]
             [quil-site.snippets :as snippets]
             [hiccup.page :as p]
