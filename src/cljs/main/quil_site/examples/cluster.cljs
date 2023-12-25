@@ -1,7 +1,7 @@
-(ns quil-site.examples.cluster
+(ns fxquil-site.examples.cluster
   (:require [quil.core :as q :include-macros true]
             [quil.middleware :as m]
-            quil-site.main ;DELETE
+            fxquil-site.main ;DELETE
             ))
 
 ;=== PARAMETERS ===
